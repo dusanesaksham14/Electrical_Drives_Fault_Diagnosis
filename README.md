@@ -1,1 +1,0 @@
-# Electrical_Drives_Fault_Diagnosis
